@@ -79,10 +79,3 @@ Attempt to log into Client-1 with one of the accounts (take note of the password
 Finish the lab, but do not delete the VMs in Azure. We will use them for upcoming labs.
 If you are done for the day and want to save money, simply “Stop”/turn off the VMs within the Azure Portal
 <br/>
-
-<img src="https://i.imgur.com/ZpjzuJm.png" height="70%" width="70%" alt="Register new PHP version."/>
-<br />
-<br />
-
-Finish the lab, but do not delete the VMs in Azure. We will use them for upcoming labs.
-If you are done for the day and want to save money, simply “Stop”/turn off the VMs within the Azure Portal
